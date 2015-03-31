@@ -1,2 +1,2 @@
 # -.-
-cout<<"hola mundo"<<endl;
+<h1> hola mundo </h1>
